@@ -1,0 +1,2 @@
+# korsatish
+Odam korsatadi
